@@ -1,0 +1,94 @@
+{
+  "name": "stig",
+  "description": "A simple command line interface to read and interface with DISA STIG benchmarks",
+  "version": "0.1.0-0",
+  "author": "Jonathan Davila @defionscode",
+  "bin": {
+    "stig": "./bin/run"
+  },
+  "bugs": "https://github.com/defionscode/stig-cli/issues",
+  "files": [
+    "/bin",
+    "/npm-shrinkwrap.json",
+    "/oclif.manifest.json",
+    "/src",
+    "/data"
+  ],
+  "dependencies": {
+    "@oclif/command": "^1.5.4",
+    "@oclif/config": "^1.8.8",
+    "@oclif/plugin-autocomplete": "^0.1.0",
+    "@oclif/plugin-help": "^2.1.3",
+    "@oclif/plugin-update": "^1.3.6",
+    "@oclif/plugin-warn-if-update-available": "^1.5.4",
+    "chalk": "^2.4.1",
+    "cheerio": "^1.0.0-rc.2",
+    "cli-ux": "^4.9.3",
+    "debug": "^4.1.0",
+    "fast-xml-parser": "^3.12.5",
+    "he": "^1.2.0",
+    "lokijs": "^1.5.5",
+    "moment": "^2.22.2",
+    "node-fetch": "^2.2.1",
+    "table": "^5.1.0",
+    "unzipper": "^0.9.4",
+    "wordwrap": "^1.0.0"
+  },
+  "devDependencies": {
+    "@oclif/dev-cli": "^1.19.4",
+    "aws-sdk": "^2.350.0",
+    "globby": "^8.0.1",
+    "standard": "^12.0.1",
+    "tape": "^4.9.1"
+  },
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "homepage": "https://github.com/defionscode/stig-cli",
+  "keywords": [
+    "oclif"
+  ],
+  "license": "GPL-3.0-only",
+  "main": "src/index.js",
+  "oclif": {
+    "update": {
+      "s3": {
+        "bucket": "stigcli"
+      }
+    },
+    "macos": {
+      "identifier": "com.stig.cli",
+      "sign": "Developer ID Installer: Jonathan Davila"
+    },
+    "commands": "./src/commands",
+    "bin": "stig",
+    "plugins": [
+      "@oclif/plugin-autocomplete",
+      "@oclif/plugin-help",
+      "@oclif/plugin-update",
+      "@oclif/plugin-warn-if-update-available"
+    ],
+    "warn-if-update-available": {
+      "timeoutInDays": 1
+    }
+  },
+  "repository": "defionscode/stig-cli",
+  "scripts": {
+    "oclif-dev": "oclif-dev",
+    "tape": "tape",
+    "ospack": "npm run win-pack && npm run macos-pack",
+    "ospub": "npm run win-pub && npm run macos-pub",
+    "win-pack": "oclif-dev pack:win",
+    "macos-pack": "oclif-dev pack:macos",
+    "deb-pack": "oclif-dev pack:deb",
+    "win-pub": "oclif-dev publish:win",
+    "macos-pub": "oclif-dev publish:macos",
+    "deb-pub": "oclif-dev publish:deb",
+    "pack": "oclif-dev pack",
+    "postpack": "rm -f oclif.manifest.json npm-shrinkwrap.json",
+    "prepack": "oclif-dev manifest && oclif-dev readme && npm install --package-lock",
+    "publish": "oclif-dev publish && npm run ospub",
+    "test": "standard src/* && tape tests/test*.js",
+    "version": "oclif-dev readme && git add README.md"
+  }
+}

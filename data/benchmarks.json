@@ -1,0 +1,1822 @@
+{
+    "benchmarks": [
+        {
+            "title": "A10 Networks Application Delivery Controller (ADC) ALG",
+            "ver": "1",
+            "rel": "1",
+            "date": "4/27/2016",
+            "xmlPath": "data/benchmarks/U_A10_Networks_ADC_ALG_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_A10_Networks_ADC_ALG_V1R1_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_A10_Networks_ADC_ALG_V1R1_STIG.zip"
+        },
+        {
+            "title": "A10 Networks Application Delivery Controller (ADC) NDM",
+            "ver": "1",
+            "rel": "1",
+            "date": "4/27/2016",
+            "xmlPath": "data/benchmarks/U_A10_Networks_ADC_NDM_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_A10_Networks_ADC_NDM_V1R1_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_A10_Networks_ADC_NDM_V1R1_STIG.zip"
+        },
+        {
+            "title": "AIX 6.1",
+            "ver": "1",
+            "rel": "13",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_AIX_6-1_V1R13_STIG.xml",
+            "zipCache": "zip_archives/U_AIX_6-1_V1R13_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_AIX_6-1_V1R13_STIG.zip"
+        },
+        {
+            "title": "Active Directory Domain",
+            "ver": "2",
+            "rel": "10",
+            "date": "7/20/2018",
+            "xmlPath": "data/benchmarks/U_Active_Directory_Domain_V2R10_STIG.xml",
+            "zipCache": "zip_archives/U_Active_Directory_Domain_V2R10_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Active_Directory_Domain_V2R10_STIG.zip"
+        },
+        {
+            "title": "Active Directory Forest",
+            "ver": "2",
+            "rel": "8",
+            "date": "7/20/2018",
+            "xmlPath": "data/benchmarks/U_Active_Directory_Forest_V2R8_STIG.xml",
+            "zipCache": "zip_archives/U_Active_Directory_Forest_V2R8_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_Active_Directory_Forest_V2R8_STIG.zip"
+        },
+        {
+            "title": "Adobe Acrobat Pro DC Classic Track",
+            "ver": "1",
+            "rel": "1",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_Adobe_Acrobat_Pro_DC_Classic_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_Adobe_Acrobat_Pro_DC_Classic_V1R1_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Adobe_Acrobat_Pro_DC_Classic_V1R1_STIG.zip"
+        },
+        {
+            "title": "Adobe Acrobat Pro DC Continuous Track",
+            "ver": "1",
+            "rel": "1",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_Adobe_Acrobat_Pro_DC_Continuous_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_Adobe_Acrobat_Pro_DC_Continuous_V1R1_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Adobe_Acrobat_Pro_DC_Continuous_V1R1_STIG.zip"
+        },
+        {
+            "title": "Adobe Acrobat Reader DC Class Track",
+            "ver": "1",
+            "rel": "4",
+            "date": "8/1/2018",
+            "xmlPath": "data/benchmarks/U_Adobe_Acrobat_Reader_DC_Classic_V1R4_STIG.xml",
+            "zipCache": "zip_archives/U_Adobe_Acrobat_Reader_DC_Classic_V1R4_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Adobe_Acrobat_Reader_DC_Classic_V1R4_STIG.zip"
+        },
+        {
+            "title": "Adobe Acrobat Reader DC Continuous Track",
+            "ver": "1",
+            "rel": "5",
+            "date": "8/1/2018",
+            "xmlPath": "data/benchmarks/U_Adobe_Acrobat_Reader_DC_Continuous_V1R5_STIG.xml",
+            "zipCache": "zip_archives/U_Adobe_Acrobat_Reader_DC_Continuous_V1R5_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Adobe_Acrobat_Reader_DC_Continuous_V1R5_STIG.zip"
+        },
+        {
+            "title": "Adobe ColdFusion 11",
+            "ver": "1",
+            "rel": "4",
+            "date": "1/26/2018",
+            "xmlPath": "data/benchmarks/U_Adobe_ColdFusion_11_V1R4_STIG.xml",
+            "zipCache": "zip_archives/U_Adobe_ColdFusion_11_V1R4_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Adobe_ColdFusion_11_V1R4_STIG.zip"
+        },
+        {
+            "title": "Akamai KSD Service IL2 ALG",
+            "ver": "1",
+            "rel": "1",
+            "date": "10/23/2017",
+            "xmlPath": "data/benchmarks/U_Akamai_KSD_Service_IL2_ALG_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_Akamai_KSD_Service_IL2_ALG_V1R1_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Akamai_KSD_Service_IL2_ALG_V1R1_STIG.zip"
+        },
+        {
+            "title": "Akamai KSD Service IL2 NDM",
+            "ver": "1",
+            "rel": "1",
+            "date": "10/23/2017",
+            "xmlPath": "data/benchmarks/U_Akamai_KSD_Service_IL2_NDM_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_Akamai_KSD_Service_IL2_NDM_V1R1_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Akamai_KSD_Service_IL2_NDM_V1R1_STIG.zip"
+        },
+        {
+            "title": "Apache 2.2 (UNIX)",
+            "ver": "1",
+            "rel": "10",
+            "date": "7/20/2018",
+            "xmlPath": "data/benchmarks/U_Apache_2-2_UNIX_V1R10_STIG.xml",
+            "zipCache": "zip_archives/U_Apache_2-2_UNIX_V1R10_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Apache_2-2_UNIX_V1R10_STIG.zip"
+        },
+        {
+            "title": "Apache 2.2 (Windows)",
+            "ver": "1",
+            "rel": "12",
+            "date": "10/27/2017",
+            "xmlPath": "data/benchmarks/U_Apache_2-2_WIN_V1R12_STIG.xml",
+            "zipCache": "zip_archives/U_Apache_2-2_WIN_V1R12_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Apache_2-2_WIN_V1R12_STIG.zip"
+        },
+        {
+            "title": "Apple OS X 10.10 Workstation",
+            "ver": "1",
+            "rel": "5",
+            "date": "4/28/2017",
+            "xmlPath": "data/benchmarks/U_Apple_OS_X_10-10_Workstation_V1R5_STIG.xml",
+            "zipCache": "zip_archives/U_Apple_OS_X_10-10_Workstation_V1R5_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_Apple_OS_X_10-10_Workstation_V1R5_STIG.zip"
+        },
+        {
+            "title": "Apple OS X 10.11 Workstation",
+            "ver": "1",
+            "rel": "6",
+            "date": "1/26/2018",
+            "xmlPath": "data/benchmarks/U_Apple_OS_X_10-11_V1R6_STIG.xml",
+            "zipCache": "zip_archives/U_Apple_OS_X_10-11_V1R6_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Apple_OS_X_10-11_V1R6_STIG.zip"
+        },
+        {
+            "title": "Apple OS X 10.12 Workstation",
+            "ver": "1",
+            "rel": "3",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_Apple_OS_X_10-12_V1R3_STIG.xml",
+            "zipCache": "zip_archives/U_Apple_OS_X_10-12_V1R3_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Apple_OS_X_10-12_V1R3_STIG.zip"
+        },
+        {
+            "title": "Apple OS X 10.8 Workstation",
+            "ver": "1",
+            "rel": "2",
+            "date": "4/24/2015",
+            "xmlPath": "data/benchmarks/U_Apple_OS_X_10-8_Workstation_V1R2_STIG.xml",
+            "zipCache": "zip_archives/U_Apple_OS_X_10-8_Workstation_V1R2_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/Apr2015/U_Apple_OS_X_10-8_Workstation_V1R2_STIG.zip"
+        },
+        {
+            "title": "Apple OS X 10.9 Workstation",
+            "ver": "1",
+            "rel": "2",
+            "date": "1/27/2017",
+            "xmlPath": "data/benchmarks/U_Apple_OS_X_10-9_Workstation_V1R2_STIG.xml",
+            "zipCache": "zip_archives/U_Apple_OS_X_10-9_Workstation_V1R2_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_Apple_OS_X_10-9_Workstation_V1R2_STIG.zip"
+        },
+        {
+            "title": "Apple iOS 11",
+            "ver": "1",
+            "rel": "3",
+            "date": "7/20/2018",
+            "xmlPath": "data/benchmarks/U_Apple_iOS_11_V1R3_STIG.xml",
+            "zipCache": "zip_archives/U_Apple_iOS_11_V1R3_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Apple_iOS_11_V1R3_STIG.zip"
+        },
+        {
+            "title": "Application Security and Development",
+            "ver": "4",
+            "rel": "7",
+            "date": "7/20/2018",
+            "xmlPath": "data/benchmarks/U_ASD_V4R7_STIG.xml",
+            "zipCache": "zip_archives/U_ASD_V4R7_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_ASD_V4R7_STIG.zip"
+        },
+        {
+            "title": "Arista Multilayer Switch (MLS) DCS-7000 Series Layer 2 Switch (L2S)",
+            "ver": "1",
+            "rel": "2",
+            "date": "4/22/2016",
+            "xmlPath": "data/benchmarks/U_Arista_MLS_DCS-7000_Series_L2S_V1R2_STIG.xml",
+            "zipCache": "zip_archives/U_Arista_MLS_DCS-7000_Series_L2S_V1R2_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/Apr2016/U_Arista_MLS_DCS-7000_Series_L2S_V1R2_STIG.zip"
+        },
+        {
+            "title": "Arista Multilayer Switch (MLS) DCS-7000 Series Network Device Management (NDM)",
+            "ver": "1",
+            "rel": "2",
+            "date": "4/22/2016",
+            "xmlPath": "data/benchmarks/U_Arista_MLS_DCS-7000_Series_NDM_V1R2_STIG.xml",
+            "zipCache": "zip_archives/U_Arista_MLS_DCS-7000_Series_NDM_V1R2_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/Apr2016/U_Arista_MLS_DCS-7000_Series_NDM_V1R2_STIG.zip"
+        },
+        {
+            "title": "Arista Multilayer Switch (MLS) DCS-7000 Series Router (RTR)",
+            "ver": "1",
+            "rel": "2",
+            "date": "4/22/2016",
+            "xmlPath": "data/benchmarks/U_Arista_MLS_DCS-7000_Series_RTR_V1R2_STIG.xml",
+            "zipCache": "zip_archives/U_Arista_MLS_DCS-7000_Series_RTR_V1R2_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/Apr2016/U_Arista_MLS_DCS-7000_Series_RTR_V1R2_STIG.zip"
+        },
+        {
+            "title": "BIND 9.x",
+            "ver": "1",
+            "rel": "4",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_BIND_9-x_V1R4_STIG.xml",
+            "zipCache": "zip_archives/U_BIND_9-x_V1R4_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_BIND_9-x_V1R4_STIG.zip"
+        },
+        {
+            "title": "BlackBerry Enterprise Mobility Server (BEMS) 2.x",
+            "ver": "1",
+            "rel": "1",
+            "date": "1/16/2018",
+            "xmlPath": "data/benchmarks/U_BEMS_2-x_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_BEMS_2-x_V1R1_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_BEMS_2-x_V1R1_STIG.zip"
+        },
+        {
+            "title": "BlackBerry OS 10.3.x",
+            "ver": "1",
+            "rel": "3",
+            "date": "5/9/2017",
+            "xmlPath": "data/benchmarks/U_BlackBerry_OS_10-3-x_V1R3_STIG.xml",
+            "zipCache": "zip_archives/U_BlackBerry_OS_10-3-x_V1R3_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_BlackBerry_OS_10-3-x_V1R3_STIG.zip"
+        },
+        {
+            "title": "BlackBerry UEM 12.7",
+            "ver": "1",
+            "rel": "1",
+            "date": "1/17/2018",
+            "xmlPath": "data/benchmarks/U_BB_UEM_12-7_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_BB_UEM_12-7_V1R1_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_BB_UEM_12-7_V1R1_STIG.zip"
+        },
+        {
+            "title": "Bromium Secure Platform 4.x",
+            "ver": "1",
+            "rel": "1",
+            "date": "5/28/2018",
+            "xmlPath": "data/benchmarks/U_Bromium_Secure_Platform_4-x_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_Bromium_Secure_Platform_4-x_V1R1_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Bromium_Secure_Platform_4-x_V1R1_STIG.zip"
+        },
+        {
+            "title": "CA API Gateway ALG",
+            "ver": "1",
+            "rel": "2",
+            "date": "4/28/2017",
+            "xmlPath": "data/benchmarks/U_CA_API_Gateway_ALG_V1R2_STIG.xml",
+            "zipCache": "zip_archives/U_CA_API_Gateway_ALG_V1R2_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_CA_API_Gateway_ALG_V1R2_STIG.zip"
+        },
+        {
+            "title": "CA API Gateway NDM",
+            "ver": "1",
+            "rel": "1",
+            "date": "9/28/2016",
+            "xmlPath": "data/benchmarks/U_CA_API_Gateway_NDM_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_CA_API_Gateway_NDM_V1R1_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_CA_API_Gateway_NDM_V1R1_STIG.zip"
+        },
+        {
+            "title": "CMD Policy",
+            "ver": "2",
+            "rel": "5",
+            "date": "10/28/2016",
+            "xmlPath": "data/benchmarks/U_CMD_Policy_V2R5_STIG.xml",
+            "zipCache": "zip_archives/U_CMD_Policy_V2R5_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/Oct2016/U_CMD_Policy_V2R5_STIG.zip"
+        },
+        {
+            "title": "Canonical Ubuntu 16.04 LTS",
+            "ver": "1",
+            "rel": "1",
+            "date": "7/25/2018",
+            "xmlPath": "data/benchmarks/U_Canonical_Ubuntu_16-04_LTS_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_Canonical_Ubuntu_16-04_LTS_V1R1_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Canonical_Ubuntu_16-04_LTS_V1R1_STIG.zip"
+        },
+        {
+            "title": "Cisco IOS XE Release 3 NDM",
+            "ver": "1",
+            "rel": "4",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_Cisco_IOS-XE_Release_3_NDM_V1R4_STIG.xml",
+            "zipCache": "zip_archives/U_Cisco_IOS-XE_Release_3_NDM_V1R4_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Cisco_IOS-XE_Release_3_NDM_V1R4_STIG.zip"
+        },
+        {
+            "title": "Cisco IOS XE Release 3 RTR",
+            "ver": "1",
+            "rel": "3",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_Cisco_IOS-XE_Release_3_RTR_V1R3_STIG.xml",
+            "zipCache": "zip_archives/U_Cisco_IOS-XE_Release_3_RTR_V1R3_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Cisco_IOS-XE_Release_3_RTR_V1R3_STIG.zip"
+        },
+        {
+            "title": "DBN-6300 IDPS",
+            "ver": "1",
+            "rel": "1",
+            "date": "10/23/2017",
+            "xmlPath": "data/benchmarks/U_DBN-6300_IDPS_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_DBN-6300_IDPS_V1R1_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_DBN-6300_IDPS_V1R1_STIG.zip"
+        },
+        {
+            "title": "DBN-6300 NDM",
+            "ver": "1",
+            "rel": "1",
+            "date": "10/23/2017",
+            "xmlPath": "data/benchmarks/U_DBN-6300_NDM_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_DBN-6300_NDM_V1R1_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_DBN-6300_NDM_V1R1_STIG.zip"
+        },
+        {
+            "title": "Draft Voice Video Policy",
+            "ver": "1",
+            "rel": "0",
+            "date": "6/26/2017",
+            "xmlPath": "data/benchmarks/U_Voice_Video_Policy_V1R0-1_IDraftSTIG.xml",
+            "zipCache": "zip_archives/U_Voice_Video_Policy_V1R0-1_IDraftSTIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_Voice_Video_Policy_V1R0-1_IDraftSTIG.zip"
+        },
+        {
+            "title": "EDB Postgres Advanced Server 9 on Red Hat Enterprise Linux",
+            "ver": "1",
+            "rel": "4",
+            "date": "1/26/2018",
+            "xmlPath": "data/benchmarks/U_EDB_PGS_Advanced_Server_V1R4_STIG.xml",
+            "zipCache": "zip_archives/U_EDB_PGS_Advanced_Server_V1R4_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_EDB_PGS_Advanced_Server_V1R4_STIG.zip"
+        },
+        {
+            "title": "Enclave Test and Development",
+            "ver": "1",
+            "rel": "4",
+            "date": "7/20/2018",
+            "xmlPath": "data/benchmarks/U_Enclave_T-D_V1R4_STIG.xml",
+            "zipCache": "zip_archives/U_Enclave_T-D_V1R4_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_Enclave_T-D_V1R4_STIG.zip"
+        },
+        {
+            "title": "Esri ArcGIS Server 10.3",
+            "ver": "1",
+            "rel": "3",
+            "date": "1/26/2018",
+            "xmlPath": "data/benchmarks/U_ArcGIS_Server_10-3_V1R3_STIG.xml",
+            "zipCache": "zip_archives/U_ArcGIS_Server_10-3_V1R3_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_ArcGIS_Server_10-3_V1R3_STIG.zip"
+        },
+        {
+            "title": "F5 BIG-IP Access Policy Manager (APM) 11.x",
+            "ver": "1",
+            "rel": "1",
+            "date": "6/11/2015",
+            "xmlPath": "data/benchmarks/U_F5_BIG-IP_Access_Policy_Manager_11-x_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_F5_BIG-IP_Access_Policy_Manager_11-x_V1R1_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_F5_BIG-IP_Access_Policy_Manager_11-x_V1R1_STIG.zip"
+        },
+        {
+            "title": "F5 BIG-IP Advanced Firewall Manager (AFM) 11.x",
+            "ver": "1",
+            "rel": "1",
+            "date": "6/11/2015",
+            "xmlPath": "data/benchmarks/U_F5_BIG-IP_Advanced_Firewall_Manager_11-x_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_F5_BIG-IP_Advanced_Firewall_Manager_11-x_V1R1_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_F5_BIG-IP_Advanced_Firewall_Manager_11-x_V1R1_STIG.zip"
+        },
+        {
+            "title": "F5 BIG-IP Application Security Manager (ASM) 11.x",
+            "ver": "1",
+            "rel": "1",
+            "date": "6/11/2015",
+            "xmlPath": "data/benchmarks/U_F5_BIG-IP_Application_Security_Manager_11-x_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_F5_BIG-IP_Application_Security_Manager_11-x_V1R1_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_F5_BIG-IP_Application_Security_Manager_11-x_V1R1_STIG.zip"
+        },
+        {
+            "title": "F5 BIG-IP Local Traffic Manager (LTM) 11.x",
+            "ver": "1",
+            "rel": "2",
+            "date": "10/28/2016",
+            "xmlPath": "data/benchmarks/U_F5_BIG-IP_Local_Traffic_Manager_11-x_V1R2_STIG.xml",
+            "zipCache": "zip_archives/U_F5_BIG-IP_Local_Traffic_Manager_11-x_V1R2_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/Oct2016/U_F5_BIG-IP_Local_Traffic_Manager_11-x_V1R2_STIG.zip"
+        },
+        {
+            "title": "F5 Big-IP Device Management 11.x",
+            "ver": "1",
+            "rel": "5",
+            "date": "7/28/2017",
+            "xmlPath": "data/benchmarks/U_F5_BIG-IP_Device_Management_11-x_V1R5_STIG.xml",
+            "zipCache": "zip_archives/U_F5_BIG-IP_Device_Management_11-x_V1R5_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_F5_BIG-IP_Device_Management_11-x_V1R5_STIG.zip"
+        },
+        {
+            "title": "ForeScout CounterACT ALG",
+            "ver": "1",
+            "rel": "2",
+            "date": "1/26/2018",
+            "xmlPath": "data/benchmarks/U_ForeScout_CounterACT_ALG_V1R2_STIG.xml",
+            "zipCache": "zip_archives/U_ForeScout_CounterACT_ALG_V1R2_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_ForeScout_CounterACT_ALG_V1R2_STIG.zip"
+        },
+        {
+            "title": "ForeScout CounterACT NDM",
+            "ver": "1",
+            "rel": "1",
+            "date": "10/23/2017",
+            "xmlPath": "data/benchmarks/U_ForeScout_CounterACT_NDM_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_ForeScout_CounterACT_NDM_V1R1_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_ForeScout_CounterACT_NDM_V1R1_STIG.zip"
+        },
+        {
+            "title": "Google Chrome Browser",
+            "ver": "1",
+            "rel": "12",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_Google_Chrome_V1R12_STIG.xml",
+            "zipCache": "zip_archives/U_Google_Chrome_V1R12_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Google_Chrome_V1R12_STIG.zip"
+        },
+        {
+            "title": "Google Search Appliance",
+            "ver": "1",
+            "rel": "1",
+            "date": "7/22/2015",
+            "xmlPath": "data/benchmarks/U_Google_Search_Appliance_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_Google_Search_Appliance_V1R1_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_Google_Search_Appliance_V1R1_STIG.zip"
+        },
+        {
+            "title": "HP-UX 11.31 Manual",
+            "ver": "1",
+            "rel": "17",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_HPUX_11-31_V1R17_STIG.xml",
+            "zipCache": "zip_archives/U_HPUX_11-31_V1R17_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_HPUX_11-31_V1R17_STIG.zip"
+        },
+        {
+            "title": "HPE 3PAR StoreServ 3.2.x",
+            "ver": "1",
+            "rel": "3",
+            "date": "7/28/2017",
+            "xmlPath": "data/benchmarks/U_HPE_3PAR_StoreServ_3-2-x_V1R3_STIG.xml",
+            "zipCache": "zip_archives/U_HPE_3PAR_StoreServ_3-2-x_V1R3_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_HPE_3PAR_StoreServ_3-2-x_V1R3_STIG.zip"
+        },
+        {
+            "title": "IBM DB2 V10-5 LUW",
+            "ver": "1",
+            "rel": "2",
+            "date": "1/26/2018",
+            "xmlPath": "data/benchmarks/U_IBM_DB2_V10-5_LUW_V1R2_STIG.xml",
+            "zipCache": "zip_archives/U_IBM_DB2_V10-5_LUW_V1R2_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_IBM_DB2_V10-5_LUW_V1R2_STIG.zip"
+        },
+        {
+            "title": "IBM DataPower",
+            "ver": "1",
+            "rel": "1",
+            "date": "2/10/2016",
+            "xmlPath": "data/benchmarks/U_IBM_DataPower_ALG_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_IBM_DataPower_ALG_V1R1_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_IBM_DataPower_ALG_V1R1_STIG.zip"
+        },
+        {
+            "title": "IBM DataPower NDM",
+            "ver": "1",
+            "rel": "2",
+            "date": "10/27/2017",
+            "xmlPath": "data/benchmarks/U_IBM_DataPower_NDM_V1R2_STIG.xml",
+            "zipCache": "zip_archives/U_IBM_DataPower_NDM_V1R2_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_IBM_DataPower_NDM_V1R2_STIG.zip"
+        },
+        {
+            "title": "IBM Hardware Management Console (HMC)",
+            "ver": "1",
+            "rel": "5",
+            "date": "10/27/2017",
+            "xmlPath": "data/benchmarks/U_IBM_HMC_V1R5_STIG.xml",
+            "zipCache": "zip_archives/U_IBM_HMC_V1R5_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_IBM_HMC_V1R5_STIG.zip"
+        },
+        {
+            "title": "IBM MQ Appliance v9-0 AS",
+            "ver": "1",
+            "rel": "1",
+            "date": "6/9/2017",
+            "xmlPath": "data/benchmarks/U_IBM_MQ_Appliance_v9-0_AS_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_IBM_MQ_Appliance_v9-0_AS_V1R1_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_IBM_MQ_Appliance_v9-0_AS_V1R1_STIG.zip"
+        },
+        {
+            "title": "IBM MQ Appliance v9-0 NDM",
+            "ver": "1",
+            "rel": "1",
+            "date": "6/8/2017",
+            "xmlPath": "data/benchmarks/U_IBM_MQ_Appliance_v9-0_NDM_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_IBM_MQ_Appliance_v9-0_NDM_V1R1_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_IBM_MQ_Appliance_v9-0_NDM_V1R1_STIG.zip"
+        },
+        {
+            "title": "IBM MaaS360 MDM",
+            "ver": "1",
+            "rel": "1",
+            "date": "4/21/2016",
+            "xmlPath": "data/benchmarks/U_IBM_MaaS360_v2-3-x_MDM_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_IBM_MaaS360_v2-3-x_MDM_V1R1_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_IBM_MaaS360_v2-3-x_MDM_V1R1_STIG.zip"
+        },
+        {
+            "title": "IBM zVM using CA VMSecure",
+            "ver": "1",
+            "rel": "2",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_IBM_zVM_Using_CA_VMSecure_V1R2_STIG.xml",
+            "zipCache": "zip_archives/U_IBM_zVM_Using_CA_VMSecure_V1R2_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_IBM_zVM_Using_CA_VMSecure_V1R2_STIG.zip"
+        },
+        {
+            "title": "IPSEC VPN Gateway",
+            "ver": "1",
+            "rel": "15",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_Network_IPSec_VPN_Gateway_V1R15_STIG.xml",
+            "zipCache": "zip_archives/U_Network_IPSec_VPN_Gateway_V1R15_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Network_IPSec_VPN_Gateway_V1R15_STIG.zip"
+        },
+        {
+            "title": "Infoblox 7.x Domain Name System (DNS)",
+            "ver": "1",
+            "rel": "5",
+            "date": "1/26/2018",
+            "xmlPath": "data/benchmarks/U_Infoblox_7-x_DNS_V1R5_STIG.xml",
+            "zipCache": "zip_archives/U_Infoblox_7-x_DNS_V1R5_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Infoblox_7-x_DNS_V1R5_STIG.zip"
+        },
+        {
+            "title": "Juniper SRX Services Gateway (SG) Application Layer Gateway (ALG)",
+            "ver": "1",
+            "rel": "3",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_Juniper_SRX_SG_ALG_V1R3_STIG.xml",
+            "zipCache": "zip_archives/U_Juniper_SRX_SG_ALG_V1R3_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Juniper_SRX_SG_ALG_V1R3_STIG.zip"
+        },
+        {
+            "title": "Juniper SRX Services Gateway (SG) Intrusion Detection and Prevention System (IDPS)",
+            "ver": "1",
+            "rel": "2",
+            "date": "7/28/2017",
+            "xmlPath": "data/benchmarks/U_Juniper_SRX_SG_IDPS_V1R2_STIG.xml",
+            "zipCache": "zip_archives/U_Juniper_SRX_SG_IDPS_V1R2_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_Juniper_SRX_SG_IDPS_V1R2_STIG.zip"
+        },
+        {
+            "title": "Juniper SRX Services Gateway (SG) Network Device Management (NDM)",
+            "ver": "1",
+            "rel": "2",
+            "date": "1/27/2017",
+            "xmlPath": "data/benchmarks/U_Juniper_SRX_SG_NDM_V1R2_STIG.xml",
+            "zipCache": "zip_archives/U_Juniper_SRX_SG_NDM_V1R2_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_Juniper_SRX_SG_NDM_V1R2_STIG.zip"
+        },
+        {
+            "title": "Juniper SRX Services Gateway (SG) Virtual Private Network (VPN)",
+            "ver": "1",
+            "rel": "2",
+            "date": "10/27/2017",
+            "xmlPath": "data/benchmarks/U_Juniper_SRX_SG_VPN_V1R2_STIG.xml",
+            "zipCache": "zip_archives/U_Juniper_SRX_SG_VPN_V1R2_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Juniper_SRX_SG_VPN_V1R2_STIG.zip"
+        },
+        {
+            "title": "Keyboard Video and Mouse Switch",
+            "ver": "2",
+            "rel": "6",
+            "date": "1/22/2016",
+            "xmlPath": "data/benchmarks/U_Keyboard_Video_and_Mouse_Switch_V2R6_STIG.xml",
+            "zipCache": "zip_archives/U_Keyboard_Video_and_Mouse_Switch_V2R6_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/Jan2016/U_Keyboard_Video_and_Mouse_Switch_V2R6_STIG.zip"
+        },
+        {
+            "title": "LG Android 6.x",
+            "ver": "1",
+            "rel": "1",
+            "date": "5/17/2016",
+            "xmlPath": "data/benchmarks/U_LG_Android_6-x_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_LG_Android_6-x_V1R1_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_LG_Android_6-x_V1R1_STIG.zip"
+        },
+        {
+            "title": "MDM Server Policy",
+            "ver": "2",
+            "rel": "4",
+            "date": "10/28/2016",
+            "xmlPath": "data/benchmarks/U_MDM_Server_Policy_V2R4_STIG.xml",
+            "zipCache": "zip_archives/U_MDM_Server_Policy_V2R4_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/Oct2016/U_MDM_Server_Policy_V2R4_STIG.zip"
+        },
+        {
+            "title": "McAfee Application Control",
+            "ver": "1",
+            "rel": "3",
+            "date": "1/26/2018",
+            "xmlPath": "data/benchmarks/U_McAfee_Application_Control_7-x_V1R3_STIG.xml",
+            "zipCache": "zip_archives/U_McAfee_Application_Control_7-x_V1R3_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_McAfee_Application_Control_7-x_V1R3_STIG.zip"
+        },
+        {
+            "title": "McAfee Virus Scan 8.8 Local Client",
+            "ver": "5",
+            "rel": "16",
+            "date": "7/20/2018",
+            "xmlPath": "data/benchmarks/U_McAfee_VirusScan88_Local_Client_V5R16_STIG.xml",
+            "zipCache": "zip_archives/U_McAfee_VirusScan88_Local_Client_V5R16_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_McAfee_VirusScan88_Local_Client_V5R16_STIG.zip"
+        },
+        {
+            "title": "McAfee Virus Scan 8.8 Managed Client",
+            "ver": "5",
+            "rel": "19",
+            "date": "7/20/2018",
+            "xmlPath": "data/benchmarks/U_McAfee_VirusScan88_Managed_Client_V5R19_STIG.xml",
+            "zipCache": "zip_archives/U_McAfee_VirusScan88_Managed_Client_V5R19_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_McAfee_VirusScan88_Managed_Client_V5R19_STIG.zip"
+        },
+        {
+            "title": "McAfee Virus Scan Enterprise for Linux 1.9x/2.0x Local Client",
+            "ver": "1",
+            "rel": "2",
+            "date": "4/22/2016",
+            "xmlPath": "data/benchmarks/U_McAfee_VSEL_1-9_2-0_Local_Client_V1R2_STIG.xml",
+            "zipCache": "zip_archives/U_McAfee_VSEL_1-9_2-0_Local_Client_V1R2_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/Apr2016/U_McAfee_VSEL_1-9_2-0_Local_Client_V1R2_STIG.zip"
+        },
+        {
+            "title": "McAfee Virus Scan Enterprise for Linux 1.9x/2.0x Managed Client",
+            "ver": "1",
+            "rel": "3",
+            "date": "10/27/2017",
+            "xmlPath": "data/benchmarks/U_McAfee_VSEL_1-9_2-0_Managed_Client_V1R3_STIG.xml",
+            "zipCache": "zip_archives/U_McAfee_VSEL_1-9_2-0_Managed_Client_V1R3_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_McAfee_VSEL_1-9_2-0_Managed_Client_V1R3_STIG.zip"
+        },
+        {
+            "title": "Microsoft .Net Framework 4",
+            "ver": "1",
+            "rel": "5",
+            "date": "7/20/2018",
+            "xmlPath": "data/benchmarks/U_MS_DotNet_Framework_4-0_V1R5_STIG.xml",
+            "zipCache": "zip_archives/U_MS_DotNet_Framework_4-0_V1R5_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_MS_DotNet_Framework_4-0_V1R5_STIG.zip"
+        },
+        {
+            "title": "Microsoft Access 2010",
+            "ver": "1",
+            "rel": "10",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_MS_Access_2010_V1R10_STIG.xml",
+            "zipCache": "zip_archives/U_MS_Access_2010_V1R10_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_MS_Access_2010_V1R10_STIG.zip"
+        },
+        {
+            "title": "Microsoft Access 2013",
+            "ver": "1",
+            "rel": "6",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_MS_Access_2013_V1R6_STIG.xml",
+            "zipCache": "zip_archives/U_MS_Access_2013_V1R6_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_MS_Access_2013_V1R6_STIG.zip"
+        },
+        {
+            "title": "Microsoft Access 2016",
+            "ver": "1",
+            "rel": "1",
+            "date": "12/16/2016",
+            "xmlPath": "data/benchmarks/U_Microsoft_Access_2016_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_Microsoft_Access_2016_V1R1_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_Microsoft_Access_2016_V1R1_STIG.zip"
+        },
+        {
+            "title": "Microsoft Excel 2010",
+            "ver": "1",
+            "rel": "11",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_MS_Excel_2010_V1R11_STIG.xml",
+            "zipCache": "zip_archives/U_MS_Excel_2010_V1R11_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_MS_Excel_2010_V1R11_STIG.zip"
+        },
+        {
+            "title": "Microsoft Excel 2013",
+            "ver": "1",
+            "rel": "7",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_MS_Excel_2013_V1R7_STIG.xml",
+            "zipCache": "zip_archives/U_MS_Excel_2013_V1R7_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_MS_Excel_2013_V1R7_STIG.zip"
+        },
+        {
+            "title": "Microsoft Excel 2016",
+            "ver": "1",
+            "rel": "2",
+            "date": "10/27/2017",
+            "xmlPath": "data/benchmarks/U_MS_Excel_2016_V1R2_STIG.xml",
+            "zipCache": "zip_archives/U_MS_Excel_2016_V1R2_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_MS_Excel_2016_V1R2_STIG.zip"
+        },
+        {
+            "title": "Microsoft Exchange 2010 Client Access",
+            "ver": "1",
+            "rel": "9",
+            "date": "1/27/2017",
+            "xmlPath": "data/benchmarks/U_Exchange_2010_Client_Access_V1R9_STIG.xml",
+            "zipCache": "zip_archives/U_Exchange_2010_Client_Access_V1R9_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_Exchange_2010_Client_Access_V1R9_STIG.zip"
+        },
+        {
+            "title": "Microsoft Exchange 2010 Edge",
+            "ver": "1",
+            "rel": "12",
+            "date": "1/27/2017",
+            "xmlPath": "data/benchmarks/U_Exchange_2010_Edge_V1R12_STIG.xml",
+            "zipCache": "zip_archives/U_Exchange_2010_Edge_V1R12_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_Exchange_2010_Edge_V1R12_STIG.zip"
+        },
+        {
+            "title": "Microsoft Exchange 2010 Hub",
+            "ver": "1",
+            "rel": "12",
+            "date": "1/27/2017",
+            "xmlPath": "data/benchmarks/U_Exchange_2010_Hub_V1R12_STIG.xml",
+            "zipCache": "zip_archives/U_Exchange_2010_Hub_V1R12_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_Exchange_2010_Hub_V1R12_STIG.zip"
+        },
+        {
+            "title": "Microsoft Exchange 2010 Mailbox",
+            "ver": "1",
+            "rel": "10",
+            "date": "7/28/2017",
+            "xmlPath": "data/benchmarks/U_Exchange_2010_Mailbox_V1R10_STIG.xml",
+            "zipCache": "zip_archives/U_Exchange_2010_Mailbox_V1R10_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_Exchange_2010_Mailbox_V1R10_STIG.zip"
+        },
+        {
+            "title": "Microsoft Exchange 2013 Client Access",
+            "ver": "1",
+            "rel": "1",
+            "date": "7/25/2016",
+            "xmlPath": "data/benchmarks/U_MS_Exchange_2013_CAS_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_MS_Exchange_2013_CAS_V1R1_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_MS_Exchange_2013_CAS_V1R1_STIG.zip"
+        },
+        {
+            "title": "Microsoft Exchange 2013 Edge Transport",
+            "ver": "1",
+            "rel": "2",
+            "date": "1/27/2017",
+            "xmlPath": "data/benchmarks/U_MS_Exchange_2013_Edge_V1R2_STIG.xml",
+            "zipCache": "zip_archives/U_MS_Exchange_2013_Edge_V1R2_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_MS_Exchange_2013_Edge_V1R2_STIG.zip"
+        },
+        {
+            "title": "Microsoft Exchange 2013 Mailbox",
+            "ver": "1",
+            "rel": "2",
+            "date": "4/28/2016",
+            "xmlPath": "data/benchmarks/U_MS_Exchange_2013_Mailbox_V1R2_STIG.xml",
+            "zipCache": "zip_archives/U_MS_Exchange_2013_Mailbox_V1R2_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_MS_Exchange_2013_Mailbox_V1R2_STIG.zip"
+        },
+        {
+            "title": "Microsoft Groove 2013",
+            "ver": "1",
+            "rel": "3",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_MS_Groove_2013_V1R3_STIG.xml",
+            "zipCache": "zip_archives/U_MS_Groove_2013_V1R3_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_MS_Groove_2013_V1R3_STIG.zip"
+        },
+        {
+            "title": "Microsoft IIS 7",
+            "ver": "1",
+            "rel": "16",
+            "date": "1/26/2018",
+            "xmlPath": "data/benchmarks/U_IIS_7-0_V1R16_STIG.xml",
+            "zipCache": "zip_archives/U_IIS_7-0_V1R16_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_IIS_7-0_V1R16_STIG.zip"
+        },
+        {
+            "title": "Microsoft IIS 8.5 Server",
+            "ver": "1",
+            "rel": "4",
+            "date": "7/20/2018",
+            "xmlPath": "data/benchmarks/U_IIS_8-5_Server_V1R4_STIG.xml",
+            "zipCache": "zip_archives/U_IIS_8-5_Server_V1R4_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_IIS_8-5_Server_V1R4_STIG.zip"
+        },
+        {
+            "title": "Microsoft IIS 8.5 Site",
+            "ver": "1",
+            "rel": "4",
+            "date": "7/20/2018",
+            "xmlPath": "data/benchmarks/U_IIS_8-5_Site_V1R4_STIG.xml",
+            "zipCache": "zip_archives/U_IIS_8-5_Site_V1R4_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_IIS_8-5_Site_V1R4_STIG.zip"
+        },
+        {
+            "title": "Microsoft InfoPath 2010",
+            "ver": "1",
+            "rel": "11",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_MS_InfoPath_2010_V1R11_STIG.xml",
+            "zipCache": "zip_archives/U_MS_InfoPath_2010_V1R11_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_MS_InfoPath_2010_V1R11_STIG.zip"
+        },
+        {
+            "title": "Microsoft InfoPath 2013",
+            "ver": "1",
+            "rel": "5",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_MS_InfoPath_2013_V1R5_STIG.xml",
+            "zipCache": "zip_archives/U_MS_InfoPath_2013_V1R5_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_MS_InfoPath_2013_V1R5_STIG.zip"
+        },
+        {
+            "title": "Microsoft Internet Explorer 10",
+            "ver": "1",
+            "rel": "15",
+            "date": "4/28/2017",
+            "xmlPath": "data/benchmarks/U_MS_IE10_V1R15_STIG.xml",
+            "zipCache": "zip_archives/U_MS_IE10_V1R15_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_MS_IE10_V1R15_STIG.zip"
+        },
+        {
+            "title": "Microsoft Internet Explorer 11",
+            "ver": "1",
+            "rel": "16",
+            "date": "7/20/2018",
+            "xmlPath": "data/benchmarks/U_MS_IE11_V1R16_STIG.xml",
+            "zipCache": "zip_archives/U_MS_IE11_V1R16_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_MS_IE11_V1R16_STIG.zip"
+        },
+        {
+            "title": "Microsoft Lync 2013",
+            "ver": "1",
+            "rel": "4",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_MS_Lync_2013_V1R4_STIG.xml",
+            "zipCache": "zip_archives/U_MS_Lync_2013_V1R4_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_MS_Lync_2013_V1R4_STIG.zip"
+        },
+        {
+            "title": "Microsoft Office System 2010",
+            "ver": "1",
+            "rel": "12",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_MS_OfficeSystem_2010_V1R12_STIG.xml",
+            "zipCache": "zip_archives/U_MS_OfficeSystem_2010_V1R12_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_MS_OfficeSystem_2010_V1R12_STIG.zip"
+        },
+        {
+            "title": "Microsoft Office System 2013",
+            "ver": "1",
+            "rel": "6",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_MS_OfficeSystem_2013_V1R6_STIG.xml",
+            "zipCache": "zip_archives/U_MS_OfficeSystem_2013_V1R6_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_MS_OfficeSystem_2013_V1R6_STIG.zip"
+        },
+        {
+            "title": "Microsoft Office System 2016",
+            "ver": "1",
+            "rel": "1",
+            "date": "12/16/2016",
+            "xmlPath": "data/benchmarks/U_Microsoft_Office_System_2016_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_Microsoft_Office_System_2016_V1R1_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_Microsoft_Office_System_2016_V1R1_STIG.zip"
+        },
+        {
+            "title": "Microsoft One Drive for Business 2016",
+            "ver": "1",
+            "rel": "2",
+            "date": "2/8/2017",
+            "xmlPath": "data/benchmarks/U_Microsoft_OneDrive_for_Business_2016_V1R2_STIG.xml",
+            "zipCache": "zip_archives/U_Microsoft_OneDrive_for_Business_2016_V1R2_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/Feb2017/U_Microsoft_OneDrive_for_Business_2016_V1R2_STIG.zip"
+        },
+        {
+            "title": "Microsoft OneNote 2010",
+            "ver": "1",
+            "rel": "9",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_MS_OneNote_2010_V1R9_STIG.xml",
+            "zipCache": "zip_archives/U_MS_OneNote_2010_V1R9_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_MS_OneNote_2010_V1R9_STIG.zip"
+        },
+        {
+            "title": "Microsoft OneNote 2013",
+            "ver": "1",
+            "rel": "3",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_MS_OneNote_2013_V1R3_STIG.xml",
+            "zipCache": "zip_archives/U_MS_OneNote_2013_V1R3_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_MS_OneNote_2013_V1R3_STIG.zip"
+        },
+        {
+            "title": "Microsoft OneNote 2016",
+            "ver": "1",
+            "rel": "2",
+            "date": "2/8/2017",
+            "xmlPath": "data/benchmarks/U_Microsoft_OneNote_2016_V1R2_STIG.xml",
+            "zipCache": "zip_archives/U_Microsoft_OneNote_2016_V1R2_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/Feb2017/U_Microsoft_OneNote_2016_V1R2_STIG.zip"
+        },
+        {
+            "title": "Microsoft Outlook 2010",
+            "ver": "1",
+            "rel": "13",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_MS_Outlook_2010_V1R13_STIG.xml",
+            "zipCache": "zip_archives/U_MS_Outlook_2010_V1R13_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_MS_Outlook_2010_V1R13_STIG.zip"
+        },
+        {
+            "title": "Microsoft Outlook 2013",
+            "ver": "1",
+            "rel": "12",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_MS_Outlook_2013_V1R12_STIG.xml",
+            "zipCache": "zip_archives/U_MS_Outlook_2013_V1R12_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_MS_Outlook_2013_V1R12_STIG.zip"
+        },
+        {
+            "title": "Microsoft Outlook 2016",
+            "ver": "1",
+            "rel": "2",
+            "date": "7/28/2017",
+            "xmlPath": "data/benchmarks/U_MS_Outlook_2016_V1R2_STIG.xml",
+            "zipCache": "zip_archives/U_MS_Outlook_2016_V1R2_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_MS_Outlook_2016_V1R2_STIG.zip"
+        },
+        {
+            "title": "Microsoft PowerPoint 2010",
+            "ver": "1",
+            "rel": "10",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_MS_PowerPoint_2010_V1R10_STIG.xml",
+            "zipCache": "zip_archives/U_MS_PowerPoint_2010_V1R10_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_MS_PowerPoint_2010_V1R10_STIG.zip"
+        },
+        {
+            "title": "Microsoft PowerPoint 2013",
+            "ver": "1",
+            "rel": "6",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_MS_PowerPoint_2013_V1R6_STIG.xml",
+            "zipCache": "zip_archives/U_MS_PowerPoint_2013_V1R6_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_MS_PowerPoint_2013_V1R6_STIG.zip"
+        },
+        {
+            "title": "Microsoft PowerPoint 2016",
+            "ver": "1",
+            "rel": "1",
+            "date": "12/16/2016",
+            "xmlPath": "data/benchmarks/U_Microsoft_PowerPoint_2016_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_Microsoft_PowerPoint_2016_V1R1_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_Microsoft_PowerPoint_2016_V1R1_STIG.zip"
+        },
+        {
+            "title": "Microsoft Project 2010",
+            "ver": "1",
+            "rel": "9",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_MS_Project_2010_V1R9_STIG.xml",
+            "zipCache": "zip_archives/U_MS_Project_2010_V1R9_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_MS_Project_2010_V1R9_STIG.zip"
+        },
+        {
+            "title": "Microsoft Project 2013",
+            "ver": "1",
+            "rel": "4",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_MS_Project_2013_V1R4_STIG.xml",
+            "zipCache": "zip_archives/U_MS_Project_2013_V1R4_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_MS_Project_2013_V1R4_STIG.zip"
+        },
+        {
+            "title": "Microsoft Project 2016",
+            "ver": "1",
+            "rel": "1",
+            "date": "12/16/2016",
+            "xmlPath": "data/benchmarks/U_Microsoft_Project_2016_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_Microsoft_Project_2016_V1R1_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_Microsoft_Project_2016_V1R1_STIG.zip"
+        },
+        {
+            "title": "Microsoft Publisher 2010",
+            "ver": "1",
+            "rel": "11",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_MS_Publisher_2010_V1R11_STIG.xml",
+            "zipCache": "zip_archives/U_MS_Publisher_2010_V1R11_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_MS_Publisher_2010_V1R11_STIG.zip"
+        },
+        {
+            "title": "Microsoft Publisher 2013",
+            "ver": "1",
+            "rel": "5",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_MS_Publisher_2013_V1R5_STIG.xml",
+            "zipCache": "zip_archives/U_MS_Publisher_2013_V1R5_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_MS_Publisher_2013_V1R5_STIG.zip"
+        },
+        {
+            "title": "Microsoft Publisher 2016",
+            "ver": "1",
+            "rel": "3",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_MS_Publisher_2016_V1R3_STIG.xml",
+            "zipCache": "zip_archives/U_MS_Publisher_2016_V1R3_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_MS_Publisher_2016_V1R3_STIG.zip"
+        },
+        {
+            "title": "Microsoft SQL Server 2012",
+            "ver": "1",
+            "rel": "17",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_SQL_Server_2012_V1R17_STIG.xml",
+            "zipCache": "zip_archives/U_SQL_Server_2012_V1R17_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_SQL_Server_2012_V1R17_STIG.zip"
+        },
+        {
+            "title": "Microsoft SQL Server 2014 Database",
+            "ver": "1",
+            "rel": "6",
+            "date": "1/26/2018",
+            "xmlPath": "data/benchmarks/U_MS_SQL_Server_2014_Database_V1R6_STIG.xml",
+            "zipCache": "zip_archives/U_MS_SQL_Server_2014_Database_V1R6_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_MS_SQL_Server_2014_Database_V1R6_STIG.zip"
+        },
+        {
+            "title": "Microsoft SQL Server 2014 Instance",
+            "ver": "1",
+            "rel": "8",
+            "date": "7/20/2018",
+            "xmlPath": "data/benchmarks/U_MS_SQL_Server_2014_Instance_V1R8_STIG.xml",
+            "zipCache": "zip_archives/U_MS_SQL_Server_2014_Instance_V1R8_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_MS_SQL_Server_2014_Instance_V1R8_STIG.zip"
+        },
+        {
+            "title": "Microsoft SQL Server 2016 Database",
+            "ver": "1",
+            "rel": "2",
+            "date": "7/20/2018",
+            "xmlPath": "data/benchmarks/U_MS_SQL_Server_2016_Database_V1R2_STIG.xml",
+            "zipCache": "zip_archives/U_MS_SQL_Server_2016_Database_V1R2_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_MS_SQL_Server_2016_Database_V1R2_STIG.zip"
+        },
+        {
+            "title": "Microsoft SQL Server 2016 Instance",
+            "ver": "1",
+            "rel": "2",
+            "date": "7/20/2018",
+            "xmlPath": "data/benchmarks/U_MS_SQL_Server_2016_Instance_V1R2_STIG.xml",
+            "zipCache": "zip_archives/U_MS_SQL_Server_2016_Instance_V1R2_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_MS_SQL_Server_2016_Instance_V1R2_STIG.zip"
+        },
+        {
+            "title": "Microsoft SharePoint 2010",
+            "ver": "1",
+            "rel": "8",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_MS_SharePoint_2010_V1R8_STIG.xml",
+            "zipCache": "zip_archives/U_MS_SharePoint_2010_V1R8_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_MS_SharePoint_2010_V1R8_STIG.zip"
+        },
+        {
+            "title": "Microsoft Sharepoint 2013",
+            "ver": "1",
+            "rel": "5",
+            "date": "7/20/2018",
+            "xmlPath": "data/benchmarks/U_MS_SharePoint_2013_V1R5_STIG.xml",
+            "zipCache": "zip_archives/U_MS_SharePoint_2013_V1R5_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_MS_SharePoint_2013_V1R5_STIG.zip"
+        },
+        {
+            "title": "Microsoft Sharepoint Designer 2013",
+            "ver": "1",
+            "rel": "3",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_MS_SharePointDesigner_2013_V1R3_STIG.xml",
+            "zipCache": "zip_archives/U_MS_SharePointDesigner_2013_V1R3_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_MS_SharePointDesigner_2013_V1R3_STIG.zip"
+        },
+        {
+            "title": "Microsoft Skype for Business 2016",
+            "ver": "1",
+            "rel": "1",
+            "date": "12/16/2016",
+            "xmlPath": "data/benchmarks/U_Microsoft_Skype_for_Business_2016_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_Microsoft_Skype_for_Business_2016_V1R1_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_Microsoft_Skype_for_Business_2016_V1R1_STIG.zip"
+        },
+        {
+            "title": "Microsoft Visio 2013",
+            "ver": "1",
+            "rel": "4",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_MS_Visio_2013_V1R4_STIG.xml",
+            "zipCache": "zip_archives/U_MS_Visio_2013_V1R4_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_MS_Visio_2013_V1R4_STIG.zip"
+        },
+        {
+            "title": "Microsoft Visio 2016",
+            "ver": "1",
+            "rel": "1",
+            "date": "12/16/2016",
+            "xmlPath": "data/benchmarks/U_Microsoft_Visio_2016_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_Microsoft_Visio_2016_V1R1_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_Microsoft_Visio_2016_V1R1_STIG.zip"
+        },
+        {
+            "title": "Microsoft Windows 10",
+            "ver": "1",
+            "rel": "14",
+            "date": "7/20/2018",
+            "xmlPath": "data/benchmarks/U_Windows_10_V1R14_STIG.xml",
+            "zipCache": "zip_archives/U_Windows_10_V1R14_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Windows_10_V1R14_STIG.zip"
+        },
+        {
+            "title": "Microsoft Windows 10 Mobile",
+            "ver": "1",
+            "rel": "3",
+            "date": "10/27/2017",
+            "xmlPath": "data/benchmarks/U_MS_Windows_10_Mobile_V1R3_STIG.xml",
+            "zipCache": "zip_archives/U_MS_Windows_10_Mobile_V1R3_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_MS_Windows_10_Mobile_V1R3_STIG.zip"
+        },
+        {
+            "title": "Microsoft Windows 2008 DC",
+            "ver": "6",
+            "rel": "41",
+            "date": "7/20/2018",
+            "xmlPath": "data/benchmarks/U_Windows_2008_DC_V6R41_STIG.xml",
+            "zipCache": "zip_archives/U_Windows_2008_DC_V6R41_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Windows_2008_DC_V6R41_STIG.zip"
+        },
+        {
+            "title": "Microsoft Windows 2008 MS",
+            "ver": "6",
+            "rel": "41",
+            "date": "7/20/2018",
+            "xmlPath": "data/benchmarks/U_Windows_2008_MS_V6R41_STIG.xml",
+            "zipCache": "zip_archives/U_Windows_2008_MS_V6R41_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Windows_2008_MS_V6R41_STIG.zip"
+        },
+        {
+            "title": "Microsoft Windows 2008 R2 DC",
+            "ver": "1",
+            "rel": "27",
+            "date": "7/20/2018",
+            "xmlPath": "data/benchmarks/U_Windows_2008_R2_DC_V1R27_STIG.xml",
+            "zipCache": "zip_archives/U_Windows_2008_R2_DC_V1R27_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Windows_2008_R2_DC_V1R27_STIG.zip"
+        },
+        {
+            "title": "Microsoft Windows 2008 R2 MS",
+            "ver": "1",
+            "rel": "27",
+            "date": "7/20/2018",
+            "xmlPath": "data/benchmarks/U_Windows_2008_R2_MS_V1R27_STIG.xml",
+            "zipCache": "zip_archives/U_Windows_2008_R2_MS_V1R27_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Windows_2008_R2_MS_V1R27_STIG.zip"
+        },
+        {
+            "title": "Microsoft Windows 2008 Server DNS",
+            "ver": "1",
+            "rel": "4",
+            "date": "7/20/2018",
+            "xmlPath": "data/benchmarks/U_MS_Windows_2008_Server_DNS_V1R4_STIG.xml",
+            "zipCache": "zip_archives/U_MS_Windows_2008_Server_DNS_V1R4_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_MS_Windows_2008_Server_DNS_V1R4_STIG.zip"
+        },
+        {
+            "title": "Microsoft Windows 2012 Server DNS",
+            "ver": "1",
+            "rel": "10",
+            "date": "7/20/2018",
+            "xmlPath": "data/benchmarks/U_MS_Windows_2012_Server_DNS_V1R10_STIG.xml",
+            "zipCache": "zip_archives/U_MS_Windows_2012_Server_DNS_V1R10_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_MS_Windows_2012_Server_DNS_V1R10_STIG.zip"
+        },
+        {
+            "title": "Microsoft Windows 2012 and 2012 R2 DC",
+            "ver": "2",
+            "rel": "13",
+            "date": "7/20/2018",
+            "xmlPath": "data/benchmarks/U_Windows_2012_and_2012_R2_DC_V2R13_STIG.xml",
+            "zipCache": "zip_archives/U_Windows_2012_and_2012_R2_DC_V2R13_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Windows_2012_and_2012_R2_DC_V2R13_STIG.zip"
+        },
+        {
+            "title": "Microsoft Windows 2012 and 2012 R2 MS",
+            "ver": "2",
+            "rel": "13",
+            "date": "7/20/2018",
+            "xmlPath": "data/benchmarks/U_Windows_2012_and_2012_R2_MS_V2R13_STIG.xml",
+            "zipCache": "zip_archives/U_Windows_2012_and_2012_R2_MS_V2R13_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Windows_2012_and_2012_R2_MS_V2R13_STIG.zip"
+        },
+        {
+            "title": "Microsoft Windows Defender Antivirus",
+            "ver": "1",
+            "rel": "4",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_MS_Windows_Defender_Antivirus_V1R4_STIG.xml",
+            "zipCache": "zip_archives/U_MS_Windows_Defender_Antivirus_V1R4_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_MS_Windows_Defender_Antivirus_V1R4_STIG.zip"
+        },
+        {
+            "title": "Microsoft Windows Firewall",
+            "ver": "1",
+            "rel": "7",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_Windows_Firewall_V1R7_STIG.xml",
+            "zipCache": "zip_archives/U_Windows_Firewall_V1R7_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Windows_Firewall_V1R7_STIG.zip"
+        },
+        {
+            "title": "Microsoft Windows Privileged Access Workstation (PAW)",
+            "ver": "1",
+            "rel": "1",
+            "date": "12/11/2017",
+            "xmlPath": "data/benchmarks/U_MS_Windows_PAW_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_MS_Windows_PAW_V1R1_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_MS_Windows_PAW_V1R1_STIG.zip"
+        },
+        {
+            "title": "Microsoft Windows Server 2016",
+            "ver": "1",
+            "rel": "5",
+            "date": "7/20/2018",
+            "xmlPath": "data/benchmarks/U_Windows_Server_2016_V1R5_STIG.xml",
+            "zipCache": "zip_archives/U_Windows_Server_2016_V1R5_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Windows_Server_2016_V1R5_STIG.zip"
+        },
+        {
+            "title": "Microsoft Word 2010",
+            "ver": "1",
+            "rel": "11",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_MS_Word_2010_V1R11_STIG.xml",
+            "zipCache": "zip_archives/U_MS_Word_2010_V1R11_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_MS_Word_2010_V1R11_STIG.zip"
+        },
+        {
+            "title": "Microsoft Word 2013",
+            "ver": "1",
+            "rel": "6",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_MS_Word_2013_V1R6_STIG.xml",
+            "zipCache": "zip_archives/U_MS_Word_2013_V1R6_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_MS_Word_2013_V1R6_STIG.zip"
+        },
+        {
+            "title": "Microsoft Word 2016",
+            "ver": "1",
+            "rel": "1",
+            "date": "12/16/2016",
+            "xmlPath": "data/benchmarks/U_Microsoft_Word_2016_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_Microsoft_Word_2016_V1R1_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_Microsoft_Word_2016_V1R1_STIG.zip"
+        },
+        {
+            "title": "Mobile Iron Core v9.x",
+            "ver": "1",
+            "rel": "3",
+            "date": "5/25/2018",
+            "xmlPath": "data/benchmarks/U_MobileIron_Core_v9-x_MDM_V1R3_STIG.xml",
+            "zipCache": "zip_archives/U_MobileIron_Core_v9-x_MDM_V1R3_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_MobileIron_Core_v9-x_MDM_V1R3_STIG.zip"
+        },
+        {
+            "title": "Mobile Policy",
+            "ver": "2",
+            "rel": "3",
+            "date": "5/31/2018",
+            "xmlPath": "data/benchmarks/U_Mobile_Policy_V2R3_STIG.xml",
+            "zipCache": "zip_archives/U_Mobile_Policy_V2R3_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Mobile_Policy_V2R3_STIG.zip"
+        },
+        {
+            "title": "Mozilla Firefox",
+            "ver": "4",
+            "rel": "22",
+            "date": "7/20/2018",
+            "xmlPath": "data/benchmarks/U_Mozilla_Firefox_V4R22_STIG.xml",
+            "zipCache": "zip_archives/U_Mozilla_Firefox_V4R22_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Mozilla_Firefox_V4R22_STIG.zip"
+        },
+        {
+            "title": "MultiFunction Device and Network Printers",
+            "ver": "2",
+            "rel": "11",
+            "date": "1/26/2018",
+            "xmlPath": "data/benchmarks/U_Multifunction_Device_and_Network_Printers_V2R11_STIG.xml",
+            "zipCache": "zip_archives/U_Multifunction_Device_and_Network_Printers_V2R11_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Multifunction_Device_and_Network_Printers_V2R11_STIG.zip"
+        },
+        {
+            "title": "Network Infrastructure Policy",
+            "ver": "9",
+            "rel": "6",
+            "date": "7/20/2018",
+            "xmlPath": "data/benchmarks/U_Network_Infrastructure_Policy_V9R6_STIG.xml",
+            "zipCache": "zip_archives/U_Network_Infrastructure_Policy_V9R6_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Network_Infrastructure_Policy_V9R6_STIG.zip"
+        },
+        {
+            "title": "Network Infrastructure Router L3 Switch",
+            "ver": "8",
+            "rel": "27",
+            "date": "7/20/2018",
+            "xmlPath": "data/benchmarks/U_Network_Infrastructure_Router_L3_Switch_V8R27_STIG.xml",
+            "zipCache": "zip_archives/U_Network_Infrastructure_Router_L3_Switch_V8R27_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Network_Infrastructure_Router_L3_Switch_V8R27_STIG.zip"
+        },
+        {
+            "title": "Network L2 Switch",
+            "ver": "8",
+            "rel": "25",
+            "date": "7/20/2018",
+            "xmlPath": "data/benchmarks/U_Network_L2_Switch_V8R25_STIG.xml",
+            "zipCache": "zip_archives/U_Network_L2_Switch_V8R25_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Network_L2_Switch_V8R25_STIG.zip"
+        },
+        {
+            "title": "Network Other Devices",
+            "ver": "8",
+            "rel": "22",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_Network_Devices_V8R22_STIG.xml",
+            "zipCache": "zip_archives/U_Network_Devices_V8R22_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Network_Devices_V8R22_STIG.zip"
+        },
+        {
+            "title": "Network Perimeter Router L3 Switch",
+            "ver": "8",
+            "rel": "30",
+            "date": "7/20/2018",
+            "xmlPath": "data/benchmarks/U_Network_Perimeter_Router_L3_Switch_V8R30_STIG.xml",
+            "zipCache": "zip_archives/U_Network_Perimeter_Router_L3_Switch_V8R30_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Network_Perimeter_Router_L3_Switch_V8R30_STIG.zip"
+        },
+        {
+            "title": "Network WLAN",
+            "ver": "6",
+            "rel": "14",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_Network_WLAN_V6R14_STIG.xml",
+            "zipCache": "zip_archives/U_Network_WLAN_V6R14_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Network_WLAN_V6R14_STIG.zip"
+        },
+        {
+            "title": "Oracle 11.2g Database",
+            "ver": "1",
+            "rel": "14",
+            "date": "7/20/2018",
+            "xmlPath": "data/benchmarks/U_Oracle_Database_11-2g_V1R14_STIG.xml",
+            "zipCache": "zip_archives/U_Oracle_Database_11-2g_V1R14_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Oracle_Database_11-2g_V1R14_STIG.zip"
+        },
+        {
+            "title": "Oracle 11g Database",
+            "ver": "8",
+            "rel": "20",
+            "date": "7/28/2017",
+            "xmlPath": "data/benchmarks/U_Oracle_Database_11g_V8R20_STIG.xml",
+            "zipCache": "zip_archives/U_Oracle_Database_11g_V8R20_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_Oracle_Database_11g_V8R20_STIG.zip"
+        },
+        {
+            "title": "Oracle 12c Database",
+            "ver": "1",
+            "rel": "10",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_Oracle_Database_12c_V1R10_STIG.xml",
+            "zipCache": "zip_archives/U_Oracle_Database_12c_V1R10_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Oracle_Database_12c_V1R10_STIG.zip"
+        },
+        {
+            "title": "Oracle HTTP Server 12.1.3",
+            "ver": "1",
+            "rel": "3",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_Oracle_HTTP_Server_12-1-3_V1R3_STIG.xml",
+            "zipCache": "zip_archives/U_Oracle_HTTP_Server_12-1-3_V1R3_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Oracle_HTTP_Server_12-1-3_V1R3_STIG.zip"
+        },
+        {
+            "title": "Oracle JRE 8 UNIX (UNIX)",
+            "ver": "1",
+            "rel": "3",
+            "date": "10/27/2017",
+            "xmlPath": "data/benchmarks/U_Oracle_JRE_8_UNIX_V1R3_STIG.xml",
+            "zipCache": "zip_archives/U_Oracle_JRE_8_UNIX_V1R3_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Oracle_JRE_8_UNIX_V1R3_STIG.zip"
+        },
+        {
+            "title": "Oracle JRE 8 Windows",
+            "ver": "1",
+            "rel": "5",
+            "date": "1/26/2018",
+            "xmlPath": "data/benchmarks/U_Oracle_JRE_8_Windows_V1R5_STIG.xml",
+            "zipCache": "zip_archives/U_Oracle_JRE_8_Windows_V1R5_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Oracle_JRE_8_Windows_V1R5_STIG.zip"
+        },
+        {
+            "title": "Oracle Linux 5 Manual",
+            "ver": "1",
+            "rel": "12",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_Oracle_Linux_5_V1R12_STIG.xml",
+            "zipCache": "zip_archives/U_Oracle_Linux_5_V1R12_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Oracle_Linux_5_V1R12_STIG.zip"
+        },
+        {
+            "title": "Oracle Linux 6 Manual",
+            "ver": "1",
+            "rel": "12",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_Oracle_Linux_6_V1R12_STIG.xml",
+            "zipCache": "zip_archives/U_Oracle_Linux_6_V1R12_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Oracle_Linux_6_V1R12_STIG.zip"
+        },
+        {
+            "title": "Oracle WebLogic Server 12c",
+            "ver": "1",
+            "rel": "4",
+            "date": "1/26/2018",
+            "xmlPath": "data/benchmarks/U_Oracle_WebLogic_Server_12c_V1R4_STIG.xml",
+            "zipCache": "zip_archives/U_Oracle_WebLogic_Server_12c_V1R4_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Oracle_WebLogic_Server_12c_V1R4_STIG.zip"
+        },
+        {
+            "title": "Palo Alto Networks Application Layer Gateway (ALG)",
+            "ver": "1",
+            "rel": "3",
+            "date": "7/28/2017",
+            "xmlPath": "data/benchmarks/U_Palo_Alto_Networks_ALG_V1R3_STIG.xml",
+            "zipCache": "zip_archives/U_Palo_Alto_Networks_ALG_V1R3_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_Palo_Alto_Networks_ALG_V1R3_STIG.zip"
+        },
+        {
+            "title": "Palo Alto Networks Intrusion Detection and Prevention System (IDPS)",
+            "ver": "1",
+            "rel": "1",
+            "date": "12/1/2015",
+            "xmlPath": "data/benchmarks/U_Palo_Alto_Networks_IDPS_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_Palo_Alto_Networks_IDPS_V1R1_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_Palo_Alto_Networks_IDPS_V1R1_STIG.zip"
+        },
+        {
+            "title": "Palo Alto Networks Network Device Management (NDM)",
+            "ver": "1",
+            "rel": "3",
+            "date": "7/28/2017",
+            "xmlPath": "data/benchmarks/U_Palo_Alto_Networks_NDM_V1R3_STIG.xml",
+            "zipCache": "zip_archives/U_Palo_Alto_Networks_NDM_V1R3_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_Palo_Alto_Networks_NDM_V1R3_STIG.zip"
+        },
+        {
+            "title": "PostgreSQL 9.x",
+            "ver": "1",
+            "rel": "3",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_PostgreSQL_9-x_V1R3_STIG.xml",
+            "zipCache": "zip_archives/U_PostgreSQL_9-x_V1R3_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_PostgreSQL_9-x_V1R3_STIG.zip"
+        },
+        {
+            "title": "Red Hat Enterprise Linux 6",
+            "ver": "1",
+            "rel": "19",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_RedHat_6_V1R19_STIG.xml",
+            "zipCache": "zip_archives/U_RedHat_6_V1R19_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_RedHat_6_V1R19_STIG.zip"
+        },
+        {
+            "title": "Red Hat Enterprise Linux 7",
+            "ver": "1",
+            "rel": "4",
+            "date": "1/26/2018",
+            "xmlPath": "data/benchmarks/U_Red_Hat_Enterprise_Linux_7_V1R4_STIG.xml",
+            "zipCache": "zip_archives/U_Red_Hat_Enterprise_Linux_7_V1R4_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Red_Hat_Enterprise_Linux_7_V1R4_STIG.zip"
+        },
+        {
+            "title": "Red Hat Jboss Enterprise Application Platform (EAP) 6.3",
+            "ver": "1",
+            "rel": "2",
+            "date": "4/28/2017",
+            "xmlPath": "data/benchmarks/U_JBoss_EAP_6-3_V1R2_STIG.xml",
+            "zipCache": "zip_archives/U_JBoss_EAP_6-3_V1R2_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_JBoss_EAP_6-3_V1R2_STIG.zip"
+        },
+        {
+            "title": "Riverbed SteelHead CX v8 ALG",
+            "ver": "1",
+            "rel": "1",
+            "date": "12/7/2015",
+            "xmlPath": "data/benchmarks/U_Riverbed_SteelHead_CX_v8_ALG_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_Riverbed_SteelHead_CX_v8_ALG_V1R1_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_Riverbed_SteelHead_CX_v8_ALG_V1R1_STIG.zip"
+        },
+        {
+            "title": "Riverbed SteelHead CX v8 NDM",
+            "ver": "1",
+            "rel": "1",
+            "date": "12/7/2015",
+            "xmlPath": "data/benchmarks/U_Riverbed_SteelHead_CX_v8_NDM_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_Riverbed_SteelHead_CX_v8_NDM_V1R1_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_Riverbed_SteelHead_CX_v8_NDM_V1R1_STIG.zip"
+        },
+        {
+            "title": "SUSE Linux Enterprise Server (SLES) v11 for System z",
+            "ver": "1",
+            "rel": "11",
+            "date": "10/27/2017",
+            "xmlPath": "data/benchmarks/U_SLES_V11_for_System_z_V1R11_STIG.xml",
+            "zipCache": "zip_archives/U_SLES_V11_for_System_z_V1R11_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_SLES_V11_for_System_z_V1R11_STIG.zip"
+        },
+        {
+            "title": "Samsung Android OS 5 (with Knox 2.x)",
+            "ver": "1",
+            "rel": "3",
+            "date": "4/22/2016",
+            "xmlPath": "data/benchmarks/U_Samsung_Android_OS_5_with_Knox_2-x_V1R3_STIG.xml",
+            "zipCache": "zip_archives/U_Samsung_Android_OS_5_with_Knox_2-x_V1R3_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/Apr2016/U_Samsung_Android_OS_5_with_Knox_2-x_V1R3_STIG.zip"
+        },
+        {
+            "title": "Samsung Android OS 6 (with Knox 2.x)",
+            "ver": "1",
+            "rel": "2",
+            "date": "1/27/2017",
+            "xmlPath": "data/benchmarks/U_Samsung_Android_OS_6_KNOX_2-x_V1R2_STIG.xml",
+            "zipCache": "zip_archives/U_Samsung_Android_OS_6_KNOX_2-x_V1R2_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_Samsung_Android_OS_6_KNOX_2-x_V1R2_STIG.zip"
+        },
+        {
+            "title": "Samsung Android OS 7",
+            "ver": "1",
+            "rel": "2",
+            "date": "4/27/2018",
+            "xmlPath": "data/benchmarks/U_Samsung_Android_OS_7_with_Knox_2-x_V1R2_STIG.xml",
+            "zipCache": "zip_archives/U_Samsung_Android_OS_7_with_Knox_2-x_V1R2_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Samsung_Android_OS_7_with_Knox_2-x_V1R2_STIG.zip"
+        },
+        {
+            "title": "Samsung Android OS 8 (with Knox 3.x) COBO",
+            "ver": "1",
+            "rel": "1",
+            "date": "5/22/2018",
+            "xmlPath": "data/benchmarks/U_Samsung_Android_OS_8_Knox_3-x_COBO_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_Samsung_Android_OS_8_Knox_3-x_COBO_V1R1_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Samsung_Android_OS_8_Knox_3-x_COBO_V1R1_STIG.zip"
+        },
+        {
+            "title": "Samsung Android OS 8 (with Knox 3.x) COPE",
+            "ver": "1",
+            "rel": "1",
+            "date": "5/22/2018",
+            "xmlPath": "data/benchmarks/U_Samsung_Android_OS_8_Knox_3-x_COPE_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_Samsung_Android_OS_8_Knox_3-x_COPE_V1R1_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Samsung_Android_OS_8_Knox_3-x_COPE_V1R1_STIG.zip"
+        },
+        {
+            "title": "Samsung SDS EMM v1.5.x",
+            "ver": "1",
+            "rel": "1",
+            "date": "2/13/2017",
+            "xmlPath": "data/benchmarks/U_Samsung_SDS_EMM_v1-5-x_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_Samsung_SDS_EMM_v1-5-x_V1R1_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_Samsung_SDS_EMM_v1-5-x_V1R1_STIG.zip"
+        },
+        {
+            "title": "Software-Defined Networking (SDN) Using Network Virtualization (NV)",
+            "ver": "1",
+            "rel": "1",
+            "date": "3/21/2017",
+            "xmlPath": "data/benchmarks/U_SDN_NV_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_SDN_NV_V1R1_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_SDN_NV_V1R1_STIG.zip"
+        },
+        {
+            "title": "Solaris 10 SPARC Manual",
+            "ver": "1",
+            "rel": "23",
+            "date": "7/20/2018",
+            "xmlPath": "data/benchmarks/U_Solaris_10_SPARC_V1R23_STIG.xml",
+            "zipCache": "zip_archives/U_Solaris_10_SPARC_V1R23_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Solaris_10_SPARC_V1R23_STIG.zip"
+        },
+        {
+            "title": "Solaris 10 x86 Manual",
+            "ver": "1",
+            "rel": "23",
+            "date": "7/20/2018",
+            "xmlPath": "data/benchmarks/U_Solaris_10_x86_V1R23_STIG.xml",
+            "zipCache": "zip_archives/U_Solaris_10_x86_V1R23_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Solaris_10_x86_V1R23_STIG.zip"
+        },
+        {
+            "title": "Solaris 11 SPARC Manual",
+            "ver": "1",
+            "rel": "15",
+            "date": "7/20/2018",
+            "xmlPath": "data/benchmarks/U_Solaris_11_SPARC_V1R15_STIG.xml",
+            "zipCache": "zip_archives/U_Solaris_11_SPARC_V1R15_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Solaris_11_SPARC_V1R15_STIG.zip"
+        },
+        {
+            "title": "Solaris 11 X86  Manual",
+            "ver": "1",
+            "rel": "15",
+            "date": "7/20/2018",
+            "xmlPath": "data/benchmarks/U_Solaris_11_X86_V1R15_STIG.xml",
+            "zipCache": "zip_archives/U_Solaris_11_X86_V1R15_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Solaris_11_X86_V1R15_STIG.zip"
+        },
+        {
+            "title": "Tanium 6.5",
+            "ver": "1",
+            "rel": "2",
+            "date": "10/28/2016",
+            "xmlPath": "data/benchmarks/U_Tanium_6-5_V1R2_STIG.xml",
+            "zipCache": "zip_archives/U_Tanium_6-5_V1R2_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/Oct2016/U_Tanium_6-5_V1R2_STIG.zip"
+        },
+        {
+            "title": "Tanium 7.0",
+            "ver": "1",
+            "rel": "2",
+            "date": "7/20/2018",
+            "xmlPath": "data/benchmarks/U_Tanium_7-0_V1R2_STIG.xml",
+            "zipCache": "zip_archives/U_Tanium_7-0_V1R2_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_Tanium_7-0_V1R2_STIG.zip"
+        },
+        {
+            "title": "VMWare ESXi5 Server",
+            "ver": "1",
+            "rel": "10",
+            "date": "1/27/2017",
+            "xmlPath": "data/benchmarks/U_ESXi5_Server_V1R10_STIG.xml",
+            "zipCache": "zip_archives/U_ESXi5_Server_V1R10_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_ESXi5_Server_V1R10_STIG.zip"
+        },
+        {
+            "title": "VMware AirWatch v9.x MDM",
+            "ver": "1",
+            "rel": "1",
+            "date": "10/14/2016",
+            "xmlPath": "data/benchmarks/U_VMW_AW_v9-x_MDM_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_VMW_AW_v9-x_MDM_V1R1_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_VMW_AW_v9-x_MDM_V1R1_STIG.zip"
+        },
+        {
+            "title": "VMware ESXi 5 vCenter Server",
+            "ver": "1",
+            "rel": "7",
+            "date": "4/22/2016",
+            "xmlPath": "data/benchmarks/U_ESXi5_vCenter_Server_V1R7_STIG.xml",
+            "zipCache": "zip_archives/U_ESXi5_vCenter_Server_V1R7_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/Apr2016/U_ESXi5_vCenter_Server_V1R7_STIG.zip"
+        },
+        {
+            "title": "VMware NSX Distributed Firewall",
+            "ver": "1",
+            "rel": "1",
+            "date": "7/11/2016",
+            "xmlPath": "data/benchmarks/U_VMware_NSX_Distributed_Firewall_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_VMware_NSX_Distributed_Firewall_V1R1_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_VMware_NSX_Distributed_Firewall_V1R1_STIG.zip"
+        },
+        {
+            "title": "VMware NSX Distributed Logical Router",
+            "ver": "1",
+            "rel": "1",
+            "date": "7/11/2016",
+            "xmlPath": "data/benchmarks/U_VMware_NSX_Distributed_Logical_Router_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_VMware_NSX_Distributed_Logical_Router_V1R1_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_VMware_NSX_Distributed_Logical_Router_V1R1_STIG.zip"
+        },
+        {
+            "title": "VMware NSX Manager",
+            "ver": "1",
+            "rel": "1",
+            "date": "7/11/2016",
+            "xmlPath": "data/benchmarks/U_VMware_NSX_Manager_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_VMware_NSX_Manager_V1R1_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_VMware_NSX_Manager_V1R1_STIG.zip"
+        },
+        {
+            "title": "VMware vSphere 6.0 ESXi",
+            "ver": "1",
+            "rel": "4",
+            "date": "7/28/2017",
+            "xmlPath": "data/benchmarks/U_VMware_vSphere_6-0_ESXi_V1R4_STIG.xml",
+            "zipCache": "zip_archives/U_VMware_vSphere_6-0_ESXi_V1R4_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_VMware_vSphere_6-0_ESXi_V1R4_STIG.zip"
+        },
+        {
+            "title": "VMware vSphere 6.0 Virtual Machine",
+            "ver": "1",
+            "rel": "1",
+            "date": "1/21/2016",
+            "xmlPath": "data/benchmarks/U_VMware_vSphere_6-0_Virtual_Machine_V1R1_STIG.xml",
+            "zipCache": "zip_archives/U_VMware_vSphere_6-0_Virtual_Machine_V1R1_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_VMware_vSphere_6-0_Virtual_Machine_V1R1_STIG.zip"
+        },
+        {
+            "title": "VMware vSphere 6.0 vCenter Server for Windows",
+            "ver": "1",
+            "rel": "4",
+            "date": "7/28/2017",
+            "xmlPath": "data/benchmarks/U_VMware_vSphere_6-0_vCenter_Server_for_Windows_V1R4_STIG.xml",
+            "zipCache": "zip_archives/U_VMware_vSphere_6-0_vCenter_Server_for_Windows_V1R4_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_VMware_vSphere_6-0_vCenter_Server_for_Windows_V1R4_STIG.zip"
+        },
+        {
+            "title": "Video Services Policy",
+            "ver": "1",
+            "rel": "9",
+            "date": "4/28/2017",
+            "xmlPath": "data/benchmarks/U_Video_Services_Policy_V1R9_STIG.xml",
+            "zipCache": "zip_archives/U_Video_Services_Policy_V1R9_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_Video_Services_Policy_V1R9_STIG.zip"
+        },
+        {
+            "title": "Vmware ESXi 5 Virtual Machine",
+            "ver": "1",
+            "rel": "7",
+            "date": "7/28/2017",
+            "xmlPath": "data/benchmarks/U_ESXi5_Virtual_Machine_V1R7_STIG.xml",
+            "zipCache": "zip_archives/U_ESXi5_Virtual_Machine_V1R7_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_ESXi5_Virtual_Machine_V1R7_STIG.zip"
+        },
+        {
+            "title": "Voice and Video over Internet Protocol (VVoIP)",
+            "ver": "3",
+            "rel": "12",
+            "date": "7/20/2018",
+            "xmlPath": "data/benchmarks/U_VVoIP_V3R12_STIG.xml",
+            "zipCache": "zip_archives/U_VVoIP_V3R12_STIG.zip",
+            "url": "http://iasecontent.disa.mil/stigs/zip/U_VVoIP_V3R12_STIG.zip"
+        },
+        {
+            "title": "Voice and Video over Internet Protocol (VVoIP) Policy",
+            "ver": "3",
+            "rel": "13",
+            "date": "7/20/2018",
+            "xmlPath": "data/benchmarks/U_Voice_Video_Services_Policy_V3R13_STIG.xml",
+            "zipCache": "zip_archives/U_Voice_Video_Services_Policy_V3R13_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_Voice_Video_Services_Policy_V3R13_STIG.zip"
+        },
+        {
+            "title": "zOS ACF2",
+            "ver": "6",
+            "rel": "37",
+            "date": "7/20/2018",
+            "xmlPath": "data/benchmarks/U_zOS_ACF2_V6R37_STIG.xml",
+            "zipCache": "zip_archives/U_zOS_ACF2_V6R37_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_zOS_ACF2_V6R37_STIG.zip"
+        },
+        {
+            "title": "zOS RACF",
+            "ver": "6",
+            "rel": "37",
+            "date": "7/20/2018",
+            "xmlPath": "data/benchmarks/U_zOS_RACF_V6R37_STIG.xml",
+            "zipCache": "zip_archives/U_zOS_RACF_V6R37_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_zOS_RACF_V6R37_STIG.zip"
+        },
+        {
+            "title": "zOS TSS",
+            "ver": "6",
+            "rel": "37",
+            "date": "7/20/2018",
+            "xmlPath": "data/benchmarks/U_zOS_TSS_V6R37_STIG.xml",
+            "zipCache": "zip_archives/U_zOS_TSS_V6R37_STIG.zip",
+            "url": "https://iasecontent.disa.mil/stigs/zip/U_zOS_TSS_V6R37_STIG.zip"
+        }
+    ]
+}
